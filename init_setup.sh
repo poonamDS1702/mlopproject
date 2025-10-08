@@ -1,4 +1,4 @@
-echo [$(date)]: "START"
+""" echo [$(date)]: "START"
 
 
 echo [$(date)]: "creating env with python 3.8 version" 
@@ -15,4 +15,6 @@ echo [$(date)]: "installing the dev requirements"
 
 pip install -r requirements_dev.txt
 
-echo [$(date)]: "END" 
+echo [$(date)]: "END"
+
+"""
