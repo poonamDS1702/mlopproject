@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/This%20PC/mlopproject/mlruns/0/models/m-ed31abffea2649778295f007ffa2d4c3/artifacts
+creation_timestamp: 1761127046026
+experiment_id: '0'
+last_updated_timestamp: 1761127064620
+model_id: m-ed31abffea2649778295f007ffa2d4c3
+model_type: null
+name: model
+source_run_id: 6ddd64c08b1e4eaeaeec92822412e111
+status: 2
+status_message: null

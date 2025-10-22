@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/This%20PC/mlopproject/mlruns/0/6ddd64c08b1e4eaeaeec92822412e111/artifacts
+end_time: 1761127064654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ddd64c08b1e4eaeaeec92822412e111
+run_name: orderly-chimp-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761127045861
+status: 3
+tags: []
+user_id: This PC
